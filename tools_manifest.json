@@ -1,6 +1,6 @@
 {
   "api_version": "1.0",
-  "last_updated": "2026-08-06T22:56:22Z",
+  "last_updated": "2026-08-06T23:06:21Z",
   "launcher": {
     "latest_version": "1.0.0",
     "description": "VJToolkit host launcher shell",
@@ -182,7 +182,7 @@
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/testmap_generator-v1.9.0/testmap_generator.vjtool",
       "sha256": "46b560864cc365eac539209d13af4c31c9cb6974beaa66460c978d5389b0ee57",
-      "visibility": "public"
+      "visibility": "private"
     },
     {
       "name": "ReFramer",
@@ -223,7 +223,7 @@
       "title": "Update Available",
       "message": "Extractor Version 1.4 available now!",
       "severity": "info",
-      "active": true
+      "active": false
     }
   ]
 }
