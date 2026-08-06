@@ -5,6 +5,12 @@
   "description": "Reads export folders created by Extractor and restores files to standard system installation paths.",
   "versions": [
     {
+      "version": "2.0.1",
+      "released": "2026-08-06",
+      "notes": "Release update 2.0.1",
+      "release_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/tag/inserter-v1.0.2"
+    },
+    {
       "version": "1.0.2",
       "released": "2026-08-06",
       "notes": "Release update 1.0.2",
