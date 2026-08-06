@@ -1,6 +1,6 @@
 {
   "api_version": "1.0",
-  "last_updated": "2026-08-06T23:07:50Z",
+  "last_updated": "2026-08-06T23:08:44Z",
   "launcher": {
     "latest_version": "1.0.0",
     "description": "VJToolkit host launcher shell",
@@ -11,7 +11,7 @@
     {
       "name": "Extractor",
       "package_name": "extractor",
-      "latest_version": "1.0.6",
+      "latest_version": "1.0.7",
       "description": "Copies configuration profiles, mapping templates, layouts, and presets from local installations.",
       "github_release_tag": "extractor-v1.0.6",
       "min_vjtoolkit_version": "1.0.0",

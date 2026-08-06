@@ -5,6 +5,12 @@
   "description": "Copies configuration profiles, mapping templates, layouts, and presets from local installations.",
   "versions": [
     {
+      "version": "1.0.7",
+      "released": "2026-08-06",
+      "notes": "Release update 1.0.7",
+      "release_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/tag/extractor-v1.0.6"
+    },
+    {
       "version": "1.0.6",
       "released": "2026-08-06",
       "notes": "Release update 1.0.6",
