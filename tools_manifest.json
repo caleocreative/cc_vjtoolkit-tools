@@ -1,6 +1,6 @@
 {
   "api_version": "1.0",
-  "last_updated": "2026-08-06T22:13:19Z",
+  "last_updated": "2026-08-06T22:22:19Z",
   "launcher": {
     "latest_version": "1.0.0",
     "description": "VJToolkit host launcher shell",
@@ -220,8 +220,8 @@
   "notifications": [
     {
       "id": "announcement-20260806233012",
-      "title": "New System Alert",
-      "message": "Enter the alert notification message here.",
+      "title": "Update Available",
+      "message": "Extractor Version 1.4 available now!",
       "severity": "info",
       "active": true
     }
