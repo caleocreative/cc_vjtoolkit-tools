@@ -1,6 +1,6 @@
 {
   "api_version": "1.0",
-  "last_updated": "2026-08-06T20:52:58Z",
+  "last_updated": "2026-08-06T21:04:55Z",
   "launcher": {
     "latest_version": "1.0.0",
     "description": "VJToolkit host launcher shell",
@@ -223,6 +223,13 @@
       "title": "PIMMEL",
       "message": "LOL",
       "severity": "info",
+      "active": true
+    },
+    {
+      "id": "announcement-20260806230439",
+      "title": "LOL",
+      "message": "PIMMEL PIMMEL",
+      "severity": "critical",
       "active": true
     }
   ]
