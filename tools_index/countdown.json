@@ -1,6 +1,6 @@
 {
   "name": "Countdown",
-  "package_name": "countdown_ndi",
+  "package_name": "countdown",
   "author": "Nicolas Neisius",
   "description": "Clean, Full HD countdown timer over NDI. Drift-free, with second-boundary buffered adjustments and deep styling controls.",
   "versions": [

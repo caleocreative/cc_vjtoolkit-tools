@@ -1,6 +1,6 @@
 {
   "api_version": "1.0",
-  "last_updated": "2026-08-06T22:28:23Z",
+  "last_updated": "2026-08-06T22:55:23Z",
   "launcher": {
     "latest_version": "1.0.0",
     "description": "VJToolkit host launcher shell",
@@ -74,7 +74,7 @@
     },
     {
       "name": "Composition Merger",
-      "package_name": "composition_tool",
+      "package_name": "composition_merger",
       "latest_version": "1.1.0",
       "description": "Visualize and selectively merge Resolume Arena compositions (.avc)",
       "github_release_tag": "composition_tool-v1.1.0",
@@ -90,7 +90,7 @@
     },
     {
       "name": "Countdown",
-      "package_name": "countdown_ndi",
+      "package_name": "countdown",
       "latest_version": "1.0.0",
       "description": "Clean, Full HD countdown timer over NDI. Drift-free, with second-boundary buffered adjustments and deep styling controls.",
       "github_release_tag": "countdown_ndi-v1.0.0",
@@ -202,7 +202,7 @@
     },
     {
       "name": "AV Sync Test",
-      "package_name": "sync_test",
+      "package_name": "av_sync_test",
       "latest_version": "1.0.0",
       "description": "Audio/Video Synchronization & Latency Calibration Tool with NDI stream output.",
       "github_release_tag": "sync_test-v1.0.0",

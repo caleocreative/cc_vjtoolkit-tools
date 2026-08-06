@@ -1,6 +1,6 @@
 {
   "name": "Composition Merger",
-  "package_name": "composition_tool",
+  "package_name": "composition_merger",
   "author": "Nicolas Neisius",
   "description": "Visualize and selectively merge Resolume Arena compositions (.avc)",
   "versions": [

@@ -1,6 +1,6 @@
 {
   "name": "AV Sync Test",
-  "package_name": "sync_test",
+  "package_name": "av_sync_test",
   "author": "Nicolas Neisius",
   "description": "Audio/Video Synchronization & Latency Calibration Tool with NDI stream output.",
   "versions": [
