@@ -1,0 +1,14 @@
+{
+  "name": "Touch Control",
+  "package_name": "touch_control",
+  "author": "Nicolas Neisius",
+  "description": "Simplified touch-snapped buttons matrix utility for triggering external hardware settings and VJ modules via UDP OSC.",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released": "2026-08-06",
+      "notes": "Release update 1.0.0",
+      "release_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/tag/touch_control-v1.0.0"
+    }
+  ]
+}

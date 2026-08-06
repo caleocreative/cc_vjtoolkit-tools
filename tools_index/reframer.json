@@ -1,0 +1,14 @@
+{
+  "name": "ReFramer",
+  "package_name": "reframer",
+  "author": "Nicolas Neisius",
+  "description": "IMAG/Output Framing Tool (Python/PyQt6)",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released": "2026-08-06",
+      "notes": "Release update 1.1.0",
+      "release_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/tag/reframer-v1.1.0"
+    }
+  ]
+}

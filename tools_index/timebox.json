@@ -1,0 +1,14 @@
+{
+  "name": "Timebox",
+  "package_name": "timebox",
+  "author": "Nicolas Neisius",
+  "description": "Premium industrial time toolkit: giant clock, local network web view, and custom timetable layout.",
+  "versions": [
+    {
+      "version": "1.2.0",
+      "released": "2026-08-06",
+      "notes": "Release update 1.2.0",
+      "release_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/tag/timebox-v1.2.0"
+    }
+  ]
+}

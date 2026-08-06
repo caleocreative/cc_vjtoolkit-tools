@@ -1,0 +1,14 @@
+{
+  "name": "Composition Merger",
+  "package_name": "composition_tool",
+  "author": "Nicolas Neisius",
+  "description": "Visualize and selectively merge Resolume Arena compositions (.avc)",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released": "2026-08-06",
+      "notes": "Release update 1.1.0",
+      "release_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/tag/composition_tool-v1.1.0"
+    }
+  ]
+}

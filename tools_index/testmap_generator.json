@@ -6,9 +6,9 @@
   "versions": [
     {
       "version": "1.9.0",
-      "released": "2026-08-05",
-      "notes": "Seamless WebM/MP4 loop rendering and NDI output stream support",
-      "release_url": "https://github.com/caleocreative/vjtoolkit-tools/releases/tag/testmap_generator-v1.9.0"
+      "released": "2026-08-06",
+      "notes": "Release update 1.9.0",
+      "release_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/tag/testmap_generator-v1.9.0"
     }
   ]
 }

@@ -1,0 +1,14 @@
+{
+  "name": "Midi Convert",
+  "package_name": "midi_convert",
+  "author": "Nicolas Neisius",
+  "description": "Convert standard MIDI (.mid) files into optimized layouts: JSON, CSV, OSC triggers, or XML formats.",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released": "2026-08-06",
+      "notes": "Release update 1.0.0",
+      "release_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/tag/midi_convert-v1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Countdown",
+  "package_name": "countdown_ndi",
+  "author": "Nicolas Neisius",
+  "description": "Clean, Full HD countdown timer over NDI. Drift-free, with second-boundary buffered adjustments and deep styling controls.",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released": "2026-08-06",
+      "notes": "Release update 1.0.0",
+      "release_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/tag/countdown_ndi-v1.0.0"
+    }
+  ]
+}

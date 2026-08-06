@@ -1,0 +1,14 @@
+{
+  "name": "Midi Middle Man",
+  "package_name": "midi_middle_man",
+  "author": "Nicolas Neisius",
+  "description": "Stark remappable MIDI router with fixed downstream endpoints and dynamic upstream bindings.",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released": "2026-08-06",
+      "notes": "Release update 1.0.0",
+      "release_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/tag/midi_middle_man-v1.0.0"
+    }
+  ]
+}
