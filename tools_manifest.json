@@ -1,6 +1,12 @@
 {
   "api_version": "1.0",
-  "last_updated": "2026-08-06T18:30:00Z",
+  "last_updated": "2026-08-06T18:35:00Z",
+  "launcher": {
+    "latest_version": "1.0.0",
+    "description": "VJToolkit host launcher shell",
+    "download_url": "https://github.com/caleocreative/cc_vjtoolkit/archive/refs/heads/main.zip",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
   "tools": [
     {
       "name": "Extractor",
@@ -12,7 +18,7 @@
       "platforms": ["mac", "windows"],
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/extractor-v1.0.6/extractor.vjtool",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "sha256": "7b044290b363756e39079117056a99de06164f823c27151b642afb85fe4ef964"
     },
     {
       "name": "Inserter",
@@ -27,6 +33,102 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "name": "Midi Convert",
+      "package_name": "midi_convert",
+      "latest_version": "1.0.0",
+      "description": "Convert standard MIDI (.mid) files into optimized layouts: JSON, CSV, OSC triggers, or XML formats.",
+      "github_release_tag": "midi_convert-v1.0.0",
+      "min_vjtoolkit_version": "1.0.0",
+      "platforms": ["mac", "windows"],
+      "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
+      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/midi_convert-v1.0.0/midi_convert.vjtool",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "Output Merger",
+      "package_name": "output_merger",
+      "latest_version": "1.0.0",
+      "description": "Merge Resolume Advanced Output configurations safely with ID preservation",
+      "github_release_tag": "output_merger-v1.0.0",
+      "min_vjtoolkit_version": "1.0.0",
+      "platforms": ["mac", "windows"],
+      "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
+      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/output_merger-v1.0.0/output_merger.vjtool",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "Composition Merger",
+      "package_name": "composition_tool",
+      "latest_version": "1.1.0",
+      "description": "Visualize and selectively merge Resolume Arena compositions (.avc)",
+      "github_release_tag": "composition_tool-v1.1.0",
+      "min_vjtoolkit_version": "1.0.0",
+      "platforms": ["mac", "windows"],
+      "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
+      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/composition_tool-v1.1.0/composition_tool.vjtool",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "Countdown",
+      "package_name": "countdown_ndi",
+      "latest_version": "1.0.0",
+      "description": "Clean, Full HD countdown timer over NDI. Drift-free, with second-boundary buffered adjustments and deep styling controls.",
+      "github_release_tag": "countdown_ndi-v1.0.0",
+      "min_vjtoolkit_version": "1.0.0",
+      "platforms": ["mac", "windows"],
+      "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
+      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/countdown_ndi-v1.0.0/countdown_ndi.vjtool",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "Touch Control",
+      "package_name": "touch_control",
+      "latest_version": "1.0.0",
+      "description": "Simplified touch-snapped buttons matrix utility for triggering external hardware settings and VJ modules via UDP OSC.",
+      "github_release_tag": "touch_control-v1.0.0",
+      "min_vjtoolkit_version": "1.0.0",
+      "platforms": ["mac", "windows"],
+      "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
+      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/touch_control-v1.0.0/touch_control.vjtool",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "Midi Middle Man",
+      "package_name": "midi_middle_man",
+      "latest_version": "1.0.0",
+      "description": "Stark remappable MIDI router with fixed downstream endpoints and dynamic upstream bindings.",
+      "github_release_tag": "midi_middle_man-v1.0.0",
+      "min_vjtoolkit_version": "1.0.0",
+      "platforms": ["mac", "windows"],
+      "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
+      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/midi_middle_man-v1.0.0/midi_middle_man.vjtool",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "Timebox",
+      "package_name": "timebox",
+      "latest_version": "1.2.0",
+      "description": "Premium industrial time toolkit: giant clock, local network web view, and custom timetable layout.",
+      "github_release_tag": "timebox-v1.2.0",
+      "min_vjtoolkit_version": "1.0.0",
+      "platforms": ["mac", "windows"],
+      "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
+      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/timebox-v1.2.0/timebox.vjtool",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "Sequencer",
+      "package_name": "sequencer",
+      "latest_version": "1.0.0",
+      "description": "grandMA-style timing cue sequencer driving real-time DMX fixtures over ArtNet.",
+      "github_release_tag": "sequencer-v1.0.0",
+      "min_vjtoolkit_version": "1.0.0",
+      "platforms": ["mac", "windows"],
+      "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
+      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/sequencer-v1.0.0/sequencer.vjtool",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
       "name": "Testmap Generator",
       "package_name": "testmap_generator",
       "latest_version": "1.9.0",
@@ -36,6 +138,30 @@
       "platforms": ["mac", "windows"],
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/testmap_generator-v1.9.0/testmap_generator.vjtool",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "ReFramer",
+      "package_name": "reframer",
+      "latest_version": "1.1.0",
+      "description": "IMAG/Output Framing Tool (Python/PyQt6)",
+      "github_release_tag": "reframer-v1.1.0",
+      "min_vjtoolkit_version": "1.0.0",
+      "platforms": ["mac", "windows"],
+      "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
+      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/reframer-v1.1.0/reframer.vjtool",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "AV Sync Test",
+      "package_name": "sync_test",
+      "latest_version": "1.0.0",
+      "description": "Audio/Video Synchronization & Latency Calibration Tool with NDI stream output.",
+      "github_release_tag": "sync_test-v1.0.0",
+      "min_vjtoolkit_version": "1.0.0",
+      "platforms": ["mac", "windows"],
+      "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
+      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/sync_test-v1.0.0/sync_test.vjtool",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     }
   ]
