@@ -1,6 +1,6 @@
 {
   "api_version": "1.0",
-  "last_updated": "2026-08-06T18:35:00Z",
+  "last_updated": "2026-08-06T19:05:50Z",
   "launcher": {
     "latest_version": "1.0.0",
     "description": "VJToolkit host launcher shell",
@@ -15,10 +15,14 @@
       "description": "Copies configuration profiles, mapping templates, layouts, and presets from local installations.",
       "github_release_tag": "extractor-v1.0.6",
       "min_vjtoolkit_version": "1.0.0",
-      "platforms": ["mac", "windows"],
+      "platforms": [
+        "mac",
+        "windows"
+      ],
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/extractor-v1.0.6/extractor.vjtool",
-      "sha256": "7b044290b363756e39079117056a99de06164f823c27151b642afb85fe4ef964"
+      "sha256": "b4412d3f2476b6f7275ec1853799d388f4f7663f1dd72d78593f9545151adba4",
+      "visibility": "public"
     },
     {
       "name": "Inserter",
@@ -27,10 +31,14 @@
       "description": "Reads export folders created by Extractor and restores files to standard system installation paths.",
       "github_release_tag": "inserter-v1.0.2",
       "min_vjtoolkit_version": "1.0.0",
-      "platforms": ["mac", "windows"],
+      "platforms": [
+        "mac",
+        "windows"
+      ],
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/inserter-v1.0.2/inserter.vjtool",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "sha256": "8db25e1966fceb4bb9ca4c37b551615aa4dd7df382e189350f44fc56cc8664b0",
+      "visibility": "public"
     },
     {
       "name": "Midi Convert",
@@ -39,10 +47,14 @@
       "description": "Convert standard MIDI (.mid) files into optimized layouts: JSON, CSV, OSC triggers, or XML formats.",
       "github_release_tag": "midi_convert-v1.0.0",
       "min_vjtoolkit_version": "1.0.0",
-      "platforms": ["mac", "windows"],
+      "platforms": [
+        "mac",
+        "windows"
+      ],
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/midi_convert-v1.0.0/midi_convert.vjtool",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "sha256": "ca20b2a842df70497425a85c87ab7297622c2dc6a8f3b1470558d37d7311400c",
+      "visibility": "public"
     },
     {
       "name": "Output Merger",
@@ -51,10 +63,14 @@
       "description": "Merge Resolume Advanced Output configurations safely with ID preservation",
       "github_release_tag": "output_merger-v1.0.0",
       "min_vjtoolkit_version": "1.0.0",
-      "platforms": ["mac", "windows"],
+      "platforms": [
+        "mac",
+        "windows"
+      ],
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/output_merger-v1.0.0/output_merger.vjtool",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "sha256": "4d116503e51458272307ba53effb9d15301e6e0288c902713d08812b05eecd48",
+      "visibility": "public"
     },
     {
       "name": "Composition Merger",
@@ -63,10 +79,14 @@
       "description": "Visualize and selectively merge Resolume Arena compositions (.avc)",
       "github_release_tag": "composition_tool-v1.1.0",
       "min_vjtoolkit_version": "1.0.0",
-      "platforms": ["mac", "windows"],
+      "platforms": [
+        "mac",
+        "windows"
+      ],
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/composition_tool-v1.1.0/composition_tool.vjtool",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "sha256": "b1438dea97b5e498afd1cbf58ac7d301e189aca5a7310dc8c8ade3b339379e5e",
+      "visibility": "public"
     },
     {
       "name": "Countdown",
@@ -75,10 +95,14 @@
       "description": "Clean, Full HD countdown timer over NDI. Drift-free, with second-boundary buffered adjustments and deep styling controls.",
       "github_release_tag": "countdown_ndi-v1.0.0",
       "min_vjtoolkit_version": "1.0.0",
-      "platforms": ["mac", "windows"],
+      "platforms": [
+        "mac",
+        "windows"
+      ],
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/countdown_ndi-v1.0.0/countdown_ndi.vjtool",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "sha256": "a06222084850bb17cc0a38e9368bf2cc7afe0cf9990f09546ce584bf54dd9875",
+      "visibility": "public"
     },
     {
       "name": "Touch Control",
@@ -87,10 +111,14 @@
       "description": "Simplified touch-snapped buttons matrix utility for triggering external hardware settings and VJ modules via UDP OSC.",
       "github_release_tag": "touch_control-v1.0.0",
       "min_vjtoolkit_version": "1.0.0",
-      "platforms": ["mac", "windows"],
+      "platforms": [
+        "mac",
+        "windows"
+      ],
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/touch_control-v1.0.0/touch_control.vjtool",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "sha256": "5ae99e31a138505a5a9c9e82867dc69b19978a471407580115d92f8ab67839ef",
+      "visibility": "public"
     },
     {
       "name": "Midi Middle Man",
@@ -99,10 +127,14 @@
       "description": "Stark remappable MIDI router with fixed downstream endpoints and dynamic upstream bindings.",
       "github_release_tag": "midi_middle_man-v1.0.0",
       "min_vjtoolkit_version": "1.0.0",
-      "platforms": ["mac", "windows"],
+      "platforms": [
+        "mac",
+        "windows"
+      ],
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/midi_middle_man-v1.0.0/midi_middle_man.vjtool",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "sha256": "1363ac93b6c293d5dad5036ce20e945002dfc33564d75180b329f6dbe1e98ff7",
+      "visibility": "public"
     },
     {
       "name": "Timebox",
@@ -111,10 +143,14 @@
       "description": "Premium industrial time toolkit: giant clock, local network web view, and custom timetable layout.",
       "github_release_tag": "timebox-v1.2.0",
       "min_vjtoolkit_version": "1.0.0",
-      "platforms": ["mac", "windows"],
+      "platforms": [
+        "mac",
+        "windows"
+      ],
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/timebox-v1.2.0/timebox.vjtool",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "sha256": "9508bf2af3c29d1e070511e684d6c0a5f979e9d3c990a827d00fca3c688874ba",
+      "visibility": "public"
     },
     {
       "name": "Sequencer",
@@ -123,10 +159,14 @@
       "description": "grandMA-style timing cue sequencer driving real-time DMX fixtures over ArtNet.",
       "github_release_tag": "sequencer-v1.0.0",
       "min_vjtoolkit_version": "1.0.0",
-      "platforms": ["mac", "windows"],
+      "platforms": [
+        "mac",
+        "windows"
+      ],
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/sequencer-v1.0.0/sequencer.vjtool",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "sha256": "58b38b3d3c2ac573d3cca9beda28c04b3983d6d15fec4ce63e70092fd1c703c2",
+      "visibility": "public"
     },
     {
       "name": "Testmap Generator",
@@ -135,10 +175,14 @@
       "description": "Generate high-tech video test cards from Resolume Advanced Output presets",
       "github_release_tag": "testmap_generator-v1.9.0",
       "min_vjtoolkit_version": "1.0.0",
-      "platforms": ["mac", "windows"],
+      "platforms": [
+        "mac",
+        "windows"
+      ],
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/testmap_generator-v1.9.0/testmap_generator.vjtool",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "sha256": "46b560864cc365eac539209d13af4c31c9cb6974beaa66460c978d5389b0ee57",
+      "visibility": "public"
     },
     {
       "name": "ReFramer",
@@ -147,10 +191,14 @@
       "description": "IMAG/Output Framing Tool (Python/PyQt6)",
       "github_release_tag": "reframer-v1.1.0",
       "min_vjtoolkit_version": "1.0.0",
-      "platforms": ["mac", "windows"],
+      "platforms": [
+        "mac",
+        "windows"
+      ],
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/reframer-v1.1.0/reframer.vjtool",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "sha256": "9f500fd90ed7911bdd5454b98ca8ec727eeed63cb19be101e7a6fab0451669f1",
+      "visibility": "public"
     },
     {
       "name": "AV Sync Test",
@@ -159,10 +207,14 @@
       "description": "Audio/Video Synchronization & Latency Calibration Tool with NDI stream output.",
       "github_release_tag": "sync_test-v1.0.0",
       "min_vjtoolkit_version": "1.0.0",
-      "platforms": ["mac", "windows"],
+      "platforms": [
+        "mac",
+        "windows"
+      ],
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/sync_test-v1.0.0/sync_test.vjtool",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "sha256": "93662d9f08881157ef9f86a15ea478f167c51e0aac50684e4e04e81094b50b27",
+      "visibility": "public"
     }
   ]
 }
