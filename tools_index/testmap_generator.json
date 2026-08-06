@@ -1,0 +1,14 @@
+{
+  "name": "Testmap Generator",
+  "package_name": "testmap_generator",
+  "author": "Nicolas Neisius",
+  "description": "Generate high-tech video test cards from Resolume Advanced Output presets",
+  "versions": [
+    {
+      "version": "1.9.0",
+      "released": "2026-08-05",
+      "notes": "Seamless WebM/MP4 loop rendering and NDI output stream support",
+      "release_url": "https://github.com/caleocreative/vjtoolkit-tools/releases/tag/testmap_generator-v1.9.0"
+    }
+  ]
+}

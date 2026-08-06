@@ -1,0 +1,14 @@
+{
+  "name": "Inserter",
+  "package_name": "inserter",
+  "author": "Nicolas Neisius",
+  "description": "Reads export folders created by Extractor and restores files to standard system installation paths.",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released": "2026-08-05",
+      "notes": "Improve Inserter layout and conflict resolution checks",
+      "release_url": "https://github.com/caleocreative/vjtoolkit-tools/releases/tag/inserter-v1.0.2"
+    }
+  ]
+}

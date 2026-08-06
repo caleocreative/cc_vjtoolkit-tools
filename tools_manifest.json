@@ -1,0 +1,42 @@
+{
+  "api_version": "1.0",
+  "last_updated": "2026-08-06T18:30:00Z",
+  "tools": [
+    {
+      "name": "Extractor",
+      "package_name": "extractor",
+      "latest_version": "1.0.6",
+      "description": "Copies configuration profiles, mapping templates, layouts, and presets from local installations.",
+      "github_release_tag": "extractor-v1.0.6",
+      "min_vjtoolkit_version": "1.0.0",
+      "platforms": ["mac", "windows"],
+      "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
+      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/extractor-v1.0.6/extractor.vjtool",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "Inserter",
+      "package_name": "inserter",
+      "latest_version": "1.0.2",
+      "description": "Reads export folders created by Extractor and restores files to standard system installation paths.",
+      "github_release_tag": "inserter-v1.0.2",
+      "min_vjtoolkit_version": "1.0.0",
+      "platforms": ["mac", "windows"],
+      "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
+      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/inserter-v1.0.2/inserter.vjtool",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "name": "Testmap Generator",
+      "package_name": "testmap_generator",
+      "latest_version": "1.9.0",
+      "description": "Generate high-tech video test cards from Resolume Advanced Output presets",
+      "github_release_tag": "testmap_generator-v1.9.0",
+      "min_vjtoolkit_version": "1.0.0",
+      "platforms": ["mac", "windows"],
+      "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
+      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/testmap_generator-v1.9.0/testmap_generator.vjtool",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ]
+}
