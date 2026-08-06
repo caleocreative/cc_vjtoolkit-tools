@@ -1,6 +1,6 @@
 {
   "api_version": "1.0",
-  "last_updated": "2026-08-06T21:08:16Z",
+  "last_updated": "2026-08-06T21:30:18Z",
   "launcher": {
     "latest_version": "1.0.0",
     "description": "VJToolkit host launcher shell",
@@ -217,5 +217,13 @@
       "visibility": "private"
     }
   ],
-  "notifications": []
+  "notifications": [
+    {
+      "id": "announcement-20260806233012",
+      "title": "New System Alert",
+      "message": "Enter the alert notification message here.",
+      "severity": "info",
+      "active": true
+    }
+  ]
 }
