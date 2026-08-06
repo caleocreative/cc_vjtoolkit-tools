@@ -1,6 +1,6 @@
 {
   "api_version": "1.0",
-  "last_updated": "2026-08-06T23:19:53Z",
+  "last_updated": "2026-08-06T23:36:35Z",
   "launcher": {
     "latest_version": "1.0.0",
     "description": "VJToolkit host launcher shell",
@@ -221,9 +221,9 @@
     {
       "id": "announcement-20260806233012",
       "title": "Update Available",
-      "message": "Extractor Version 1.4 available now!",
+      "message": "IHR NUTTEN",
       "severity": "info",
-      "active": false
+      "active": true
     }
   ]
 }
