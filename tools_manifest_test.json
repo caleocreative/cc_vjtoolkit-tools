@@ -1,6 +1,6 @@
 {
   "api_version": "1.0",
-  "last_updated": "2026-08-07T09:46:41Z",
+  "last_updated": "2026-08-07T09:48:23Z",
   "launcher": {
     "latest_version": "1.0.0",
     "description": "VJToolkit host launcher shell",
@@ -11,7 +11,7 @@
     {
       "name": "Extractor",
       "package_name": "extractor",
-      "latest_version": "1.0.1",
+      "latest_version": "1.0.3",
       "description": "Copies configuration profiles, mapping templates, layouts, and presets from local installations.",
       "github_release_tag": "extractor-v1.0.1",
       "min_vjtoolkit_version": "1.0.0",
@@ -20,8 +20,8 @@
         "windows"
       ],
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
-      "download_url": "https://raw.githubusercontent.com/caleocreative/cc_vjtoolkit-tools/main/current%20online%20version/tools/extractor/1.0.1/extractor.vjtool",
-      "sha256": "5ce06b44532d67dce076f866a9c13ebdac09cf3c62ed589fc4c6a16ed6921d59",
+      "download_url": "https://raw.githubusercontent.com/caleocreative/cc_vjtoolkit-tools/main/current%20online%20version/tools/extractor/1.0.3/extractor.vjtool",
+      "sha256": "eb0f1f73d18a361bba0178770b1efa29179642b85ac6e85427f24f71d82dfe10",
       "visibility": "public"
     }
   ],
