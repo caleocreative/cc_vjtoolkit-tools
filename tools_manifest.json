@@ -1,6 +1,6 @@
 {
   "api_version": "1.0",
-  "last_updated": "2026-08-07T08:34:58Z",
+  "last_updated": "2026-08-07T08:35:04Z",
   "launcher": {
     "latest_version": "1.0.0",
     "description": "VJToolkit host launcher shell",
@@ -11,7 +11,7 @@
     {
       "name": "Extractor",
       "package_name": "extractor",
-      "latest_version": "1.0.7",
+      "latest_version": "1.0.6",
       "description": "Copies configuration profiles, mapping templates, layouts, and presets from local installations.",
       "github_release_tag": "extractor-v1.0.6",
       "min_vjtoolkit_version": "1.0.0",
@@ -27,7 +27,7 @@
     {
       "name": "Inserter",
       "package_name": "inserter",
-      "latest_version": "2.0.1",
+      "latest_version": "1.0.2",
       "description": "Reads export folders created by Extractor and restores files to standard system installation paths.",
       "github_release_tag": "inserter-v1.0.2",
       "min_vjtoolkit_version": "1.0.0",
@@ -54,7 +54,7 @@
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/midi_convert-v1.0.0/midi_convert.vjtool",
       "sha256": "ca20b2a842df70497425a85c87ab7297622c2dc6a8f3b1470558d37d7311400c",
-      "visibility": "private"
+      "visibility": "public"
     },
     {
       "name": "Output Merger",
@@ -70,39 +70,39 @@
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/output_merger-v1.0.0/output_merger.vjtool",
       "sha256": "4d116503e51458272307ba53effb9d15301e6e0288c902713d08812b05eecd48",
-      "visibility": "private"
+      "visibility": "public"
     },
     {
       "name": "Composition Merger",
       "package_name": "composition_merger",
       "latest_version": "1.1.0",
       "description": "Visualize and selectively merge Resolume Arena compositions (.avc)",
-      "github_release_tag": "composition_tool-v1.1.0",
+      "github_release_tag": "composition_merger-v1.1.0",
       "min_vjtoolkit_version": "1.0.0",
       "platforms": [
         "mac",
         "windows"
       ],
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
-      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/composition_tool-v1.1.0/composition_tool.vjtool",
-      "sha256": "b1438dea97b5e498afd1cbf58ac7d301e189aca5a7310dc8c8ade3b339379e5e",
-      "visibility": "private"
+      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/composition_merger-v1.1.0/composition_merger.vjtool",
+      "sha256": "8605bb45fe17c4b2534e0a940409af72d3eb53d7b0ac3c4229ffb35184b92494",
+      "visibility": "public"
     },
     {
       "name": "Countdown",
       "package_name": "countdown",
       "latest_version": "1.0.0",
       "description": "Clean, Full HD countdown timer over NDI. Drift-free, with second-boundary buffered adjustments and deep styling controls.",
-      "github_release_tag": "countdown_ndi-v1.0.0",
+      "github_release_tag": "countdown-v1.0.0",
       "min_vjtoolkit_version": "1.0.0",
       "platforms": [
         "mac",
         "windows"
       ],
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
-      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/countdown_ndi-v1.0.0/countdown_ndi.vjtool",
-      "sha256": "a06222084850bb17cc0a38e9368bf2cc7afe0cf9990f09546ce584bf54dd9875",
-      "visibility": "private"
+      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/countdown-v1.0.0/countdown.vjtool",
+      "sha256": "ca254af95cee542930f5b34558d8fe603c0a8f40ad0db7f807ac91aafe71acba",
+      "visibility": "public"
     },
     {
       "name": "Touch Control",
@@ -118,7 +118,7 @@
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/touch_control-v1.0.0/touch_control.vjtool",
       "sha256": "5ae99e31a138505a5a9c9e82867dc69b19978a471407580115d92f8ab67839ef",
-      "visibility": "private"
+      "visibility": "public"
     },
     {
       "name": "Midi Middle Man",
@@ -134,7 +134,7 @@
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/midi_middle_man-v1.0.0/midi_middle_man.vjtool",
       "sha256": "1363ac93b6c293d5dad5036ce20e945002dfc33564d75180b329f6dbe1e98ff7",
-      "visibility": "private"
+      "visibility": "public"
     },
     {
       "name": "Timebox",
@@ -150,7 +150,7 @@
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/timebox-v1.2.0/timebox.vjtool",
       "sha256": "9508bf2af3c29d1e070511e684d6c0a5f979e9d3c990a827d00fca3c688874ba",
-      "visibility": "private"
+      "visibility": "public"
     },
     {
       "name": "Sequencer",
@@ -166,7 +166,7 @@
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/sequencer-v1.0.0/sequencer.vjtool",
       "sha256": "58b38b3d3c2ac573d3cca9beda28c04b3983d6d15fec4ce63e70092fd1c703c2",
-      "visibility": "private"
+      "visibility": "public"
     },
     {
       "name": "Testmap Generator",
@@ -198,23 +198,23 @@
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
       "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/reframer-v1.1.0/reframer.vjtool",
       "sha256": "9f500fd90ed7911bdd5454b98ca8ec727eeed63cb19be101e7a6fab0451669f1",
-      "visibility": "private"
+      "visibility": "public"
     },
     {
       "name": "AV Sync Test",
       "package_name": "av_sync_test",
       "latest_version": "1.0.0",
       "description": "Audio/Video Synchronization & Latency Calibration Tool with NDI stream output.",
-      "github_release_tag": "sync_test-v1.0.0",
+      "github_release_tag": "av_sync_test-v1.0.0",
       "min_vjtoolkit_version": "1.0.0",
       "platforms": [
         "mac",
         "windows"
       ],
       "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
-      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/sync_test-v1.0.0/sync_test.vjtool",
-      "sha256": "f3e778b7656e22aebd706b426dd01b0becb558b6d43a9a27f5f78bb017e58480",
-      "visibility": "private"
+      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/av_sync_test-v1.0.0/av_sync_test.vjtool",
+      "sha256": "6ca9bd58d49609d1ab8066b192edeba037548dd3ed36a409317a8d82dafb8cb2",
+      "visibility": "public"
     }
   ],
   "notifications": [
