@@ -4,3 +4,9 @@
 dist/
 build/
 .DS_Store
+
+# Do not ignore files in the online release directory or local builds
+!current online version/
+!current online version/**
+!local_builds/
+!local_builds/**
