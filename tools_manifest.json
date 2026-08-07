@@ -1,6 +1,6 @@
 {
   "api_version": "1.0",
-  "last_updated": "2026-08-07T08:40:00Z",
+  "last_updated": "2026-08-07T08:58:01Z",
   "launcher": {
     "latest_version": "1.0.0",
     "description": "VJToolkit host launcher shell",
@@ -8,5 +8,13 @@
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   "tools": [],
-  "notifications": []
+  "notifications": [
+    {
+      "id": "announcement-20260807105738",
+      "title": "Hey!",
+      "message": "Thanks for using the VJTK <3",
+      "severity": "info",
+      "active": true
+    }
+  ]
 }
