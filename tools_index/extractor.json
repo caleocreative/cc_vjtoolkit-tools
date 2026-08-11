@@ -1,0 +1,15 @@
+{
+  "name": "Extractor",
+  "package_name": "extractor",
+  "author": "Nicolas Neisius",
+  "description": "Update v1.0.1 of extractor",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released": "2026-08-11",
+      "notes": "Release update 1.0.1",
+      "release_url": "https://raw.githubusercontent.com/caleocreative/cc_vjtoolkit-tools/main/current%20online%20version/tools/extractor/1.0.1/extractor.vjtool",
+      "status": "public"
+    }
+  ]
+}

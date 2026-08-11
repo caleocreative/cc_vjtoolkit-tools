@@ -1,0 +1,13 @@
+# Ignore all built package archive files
+*.vjtool
+*.zip
+dist/
+build/
+.DS_Store
+
+local_builds/
+tools_manifest_test.json
+
+# Do not ignore files in the online release directory
+!current online version/
+!current online version/**

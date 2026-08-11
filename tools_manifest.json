@@ -1,0 +1,107 @@
+{
+  "api_version": "1.0",
+  "last_updated": "2026-08-11T23:42:39Z",
+  "launcher": {
+    "latest_version": "1.0.2",
+    "description": "VJToolkit host launcher shell",
+    "windows": {
+      "download_url": "https://github.com/caleocreative/cc_vjtoolkit-tools/releases/download/launcher-v1.0.2/VJToolkit-1.0.2-Windows.zip",
+      "sha256": "c821cfba6db9eaf94a079f0f23cb663ac4a7da26854b2705cc21754025492c9a"
+    },
+    "mac": {
+      "download_url": "",
+      "sha256": ""
+    }
+  },
+  "tools": [
+    {
+      "name": "Extractor",
+      "package_name": "extractor",
+      "latest_version": "1.0.1",
+      "description": "Update v1.0.1 of extractor",
+      "github_release_tag": "extractor-v1.0.1",
+      "min_vjtoolkit_version": "1.0.0",
+      "platforms": [
+        "mac",
+        "windows"
+      ],
+      "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
+      "download_url": "https://raw.githubusercontent.com/caleocreative/cc_vjtoolkit-tools/main/current%20online%20version/tools/extractor/1.0.1/extractor.vjtool",
+      "sha256": "392c8c814d72b349a8fc23c85eac4564d35a7789ef866b42851ba154093b1354",
+      "visibility": "public"
+    },
+    {
+      "name": "Inserter",
+      "package_name": "inserter",
+      "latest_version": "1.0.1",
+      "description": "Update v1.0.1 of inserter",
+      "github_release_tag": "inserter-v1.0.1",
+      "min_vjtoolkit_version": "1.0.0",
+      "platforms": [
+        "mac",
+        "windows"
+      ],
+      "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
+      "download_url": "https://raw.githubusercontent.com/caleocreative/cc_vjtoolkit-tools/main/current%20online%20version/tools/inserter/1.0.1/inserter.vjtool",
+      "sha256": "b05f36bb0035780efbcfb6753ac471604e894b87d3717601cadef571c12fdb1c",
+      "visibility": "public"
+    },
+    {
+      "name": "Easy Mask",
+      "package_name": "mask_editor",
+      "latest_version": "1.0.1",
+      "description": "Update v1.0.1 of mask_editor",
+      "github_release_tag": "mask_editor-v1.0.1",
+      "min_vjtoolkit_version": "1.0.0",
+      "platforms": [
+        "mac",
+        "windows"
+      ],
+      "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
+      "download_url": "https://raw.githubusercontent.com/caleocreative/cc_vjtoolkit-tools/main/current%20online%20version/tools/mask_editor/1.0.1/mask_editor.vjtool",
+      "sha256": "77f67f84747af84c82ac1c644d0872d79d876f165b463d1f715eaa890e6cd15e",
+      "visibility": "public"
+    },
+    {
+      "name": "Midi Convert",
+      "package_name": "midi_convert",
+      "latest_version": "1.0.1",
+      "description": "Update v1.0.1 of midi_convert",
+      "github_release_tag": "midi_convert-v1.0.1",
+      "min_vjtoolkit_version": "1.0.0",
+      "platforms": [
+        "mac",
+        "windows"
+      ],
+      "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
+      "download_url": "https://raw.githubusercontent.com/caleocreative/cc_vjtoolkit-tools/main/current%20online%20version/tools/midi_convert/1.0.1/midi_convert.vjtool",
+      "sha256": "f05e0766c79892b677436f6c981874ba292ace3947cbd80dd2055d083dcc6b07",
+      "visibility": "public"
+    },
+    {
+      "name": "Testmap Generator",
+      "package_name": "testmap_generator",
+      "latest_version": "1.0.1",
+      "description": "Update v1.0.1 of testmap_generator",
+      "github_release_tag": "testmap_generator-v1.0.1",
+      "min_vjtoolkit_version": "1.0.0",
+      "platforms": [
+        "mac",
+        "windows"
+      ],
+      "repository_url": "https://github.com/caleocreative/cc_vjtoolkit-tools",
+      "download_url": "https://raw.githubusercontent.com/caleocreative/cc_vjtoolkit-tools/main/current%20online%20version/tools/testmap_generator/1.0.1/testmap_generator.vjtool",
+      "sha256": "4a41f2e21d72604c01d3ae49669505db8a90167925bea283fed3e210e75e50cd",
+      "visibility": "public"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "announcement-20260811014309",
+      "title": "Hey!",
+      "message": "Thank you for using VJTK!",
+      "severity": "info",
+      "active": true
+    }
+  ]
+}
